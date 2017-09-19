@@ -1,10 +1,12 @@
 ---
-title: "Internals"
-nav-id: internals
-nav-pos: 9
-nav-title: '<i class="fa fa-book title dessert" aria-hidden="true"></i> Internals'
+title: Cookbooks
+nav-id: cookbooks
+nav-pos: 4
+nav-title: '<i class="fa fa-book title appetizer" aria-hidden="true"></i> Cookbooks'
 nav-parent_id: root
-section-break: true
+layout: redirect
+redirect: /cookbooks/join-streams.html
+permalink: /cookbooks/index.html
 ---
 <!--
 Licensed to the Apache Software Foundation (ASF) under one
